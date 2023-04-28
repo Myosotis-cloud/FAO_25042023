@@ -35,7 +35,7 @@ THE GLOBAL HUNGER INDEX (GHI)
   scores from 35.0 to 49.9 indicate an alarming level, and scores above 50 indicate 
   scores above 50 an extremely alarming level.
 
-     GHI<=9.9: low severity - 10<GHI<19.9: moderate - 20<GHI<34.9: serious - 35<GHI<49.9: alarming - GHI > 50: alarming
+     GHI<=9.9: low severity - 10<GHI<19.9: moderate - 20<GHI<34.9: serious - 35<GHI<49.9: alarming - GHI > 50: extreme alarming
 
 ![image](https://user-images.githubusercontent.com/80876493/234910567-e6c83cd1-e779-445b-9e82-ffad11cce648.png)
 
